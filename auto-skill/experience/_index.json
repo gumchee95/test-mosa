@@ -1,0 +1,16 @@
+{
+  "skills": [
+    {
+      "name": "remotion-best-practices",
+      "skill-id": "remotion-best-practices",
+      "file": "skill-remotion-best-practices.md",
+      "lastUpdated": "2026-03-01"
+    },
+    {
+      "name": "marketing_agent",
+      "skill-id": "marketing_agent",
+      "file": "skill-marketing_agent.md",
+      "lastUpdated": "2026-03-23"
+    }
+  ]
+}

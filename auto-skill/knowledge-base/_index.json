@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "professional-event-management",
+      "keywords": ["event", "management", "SOP", "Professional", "handbook", "planning", "pricing", "sponsorship", "manpower", "logistics", "ROS"],
+      "file": "professional-event-management.md",
+      "lastUpdated": "2026-03-19"
+    },
+    {
+      "name": "backend-dev",
+      "keywords": ["backend", "api", "node", "python", "database"],
+      "file": "backend-dev.md",
+      "lastUpdated": "2026-03-01"
+    },
+    {
+      "name": "design-layout",
+      "keywords": ["design", "layout", "css", "flexbox", "grid", "frontend"],
+      "file": "design-layout.md",
+      "lastUpdated": "2026-03-01"
+    },
+    {
+      "name": "frontend-dev",
+      "keywords": ["frontend", "react", "vue", "javascript", "typescript"],
+      "file": "frontend-dev.md",
+      "lastUpdated": "2026-03-01"
+    },
+    {
+      "name": "workflow",
+      "keywords": ["workflow", "efficiency", "automation", "best-practices"],
+      "file": "workflow.md",
+      "lastUpdated": "2026-03-01"
+    },
+    {
+      "name": "writing",
+      "keywords": ["writing", "documentation", "tone", "professional-writing"],
+      "file": "writing.md",
+      "lastUpdated": "2026-03-01"
+    },
+    {
+      "name": "market-research",
+      "keywords": ["market", "Bursa", "scanning", "volume", "analysis", "stock", "news"],
+      "file": "market-research.md",
+      "lastUpdated": "2026-03-22"
+    },
+    {
+      "name": "marketing-strategy",
+      "keywords": ["marketing", "social-media", "SOP", "algorithm", "agency", "bilingual", "lifestyle"],
+      "file": "marketing-strategy.md",
+      "lastUpdated": "2026-03-23"
+    },
+    {
+      "name": "env-windows",
+      "keywords": ["python", "windows", "py", "execution", "run", "cli", "command"],
+      "file": "env-windows.md",
+      "lastUpdated": "2026-04-07"
+    }
+  ]
+}
